@@ -1,0 +1,9 @@
+name: ged_actors
+dependencies:
+- pip
+- python
+- scipy
+- numpy
+- pandas
+- matplotlib
+- jupyter
